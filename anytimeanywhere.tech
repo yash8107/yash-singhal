@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+ 	<meta name="Description"  content="Best PHOTOGRAPHY">
+ 	<meta name="keywords" content="best Photography , whatsapp photos, image, photos, wallpaper, best photos 2019, best photos to download , HD wallpaper , backgrond photos , new best image">
+ 	<meta name="Author" content="ANY TIME">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="main" style="background: black;">
+	<nav>
+    <p style="display: inline-block; color: white; padding: 1px;"><b><strong>Anytimeanywhere</strong></b></p>
+<img src="1000.png" height="50%" width="auto" style=" text-align: center;  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;" />
+ 	  <ul> 
+ 		<li><a href="index.html" target="_self" style="color: white;"><u>Home</u></a></li>  
+ 		<li><a href="about.html" target="_self" style="color: white;"><u>About</u></a></li>  
+ 		<li><a href="#top" target="_self" style="color: white;"><u>Contact</u></a></li>
+ 	</ul>
+ 	</nav>
+</div>
+<div style="background:#1A6768; margin:2px;">
+<div class="slideshow-container" >
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="50002.jpg"  style="width:100%" >
+  <div class="text">Shot by: Rudra pratap singh</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="50003.jpg"  style="width:100%" >
+  <div class="text">Shot by: Manika agrawal </div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="50001.jpg" height="auto" style="width:100%" >
+  <div class="text">Shot by: Pranjal Singh</div>
+</div>
+</div><br>
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+</div>
+<h2 style="background:#1A6768;"><center style="color:#FFFFFF ; font-family: Allura;"><b>"Photography for me is not looking,
+					 it's feeling. If you can't <br>feel what 
+					 you are looking at,then you're
+					 never going to get<br> others to feel 
+					 anything when they look at your pictures."</b></center></h2>
+<!-- Photo Grid -->
+<div style="background:#1A6768  ">
+  <div class="row"> 
+
+     <div class="column">
+      <div class="cv" style="background: #000000; color: white; "> <a href="50004.jpeg" target="_self"> <img class="yrr" src="12.jpeg"  title="Aviral" style="width:100%"></a>Captured By :- Aviral Mishra</div>
+         <div class="cv" style="background: #000000; color: white; "> <a href="106.jpeg" target="_self"> <img class="yrr" src="106.jpeg" title="Vibhu Pandey" style="width:100%"></a> <br>Captured By :- Vibhu Panday</div>
+         <div class="cv" style="background: #000000; color: white; "><a href="102.jpeg" target="_self"> <img class="yrr" src="102.jpeg" title="Riya Narain" style="width:100%"></a><br>Captured By :- Riya Narain</div>
+         
+      </div>
+      <div class="column">
+         <div class="cv" style="background: #000000; color: white; "><a href="34.jpeg" target="_self"> <img src="34.jpeg" title="Jayesh Srivastava" style="width:100%"></a>Captured By :- Jayesh Srivastava</div>
+         <div class="cv" style="background: #000000; color: white; "> <a href="22.jpeg" target="_self"> <img src="22.jpeg" title="Aviral" style="width:100%"></a>
+         Captured By :- Aviral Mishra</div>
+      </div>  
+      <div class="column">
+        <div class="cv" style="background: #000000; color: white; "><a href="105.jpeg" target="_self"><img class="yrr" title="Jayesh Srivastava" src="105.jpeg" style="width:100%"></a>Captured By :-Jayesh Srivastava</div>
+        <div class="cv" style="background: #000000; color: white; "><a href="103.jpeg" target="_self"> <img src="103.jpeg" title="Aviral" style="width:100%"></a>Captured By :- Aviral Mishra<br><br></div>
+        <div class="cv" style="background: #000000; color: white; "><a href="101.jpeg" target="_self"> <img class="yrr" src="101.jpeg" title="Riya Narain" style="width:100%"></a>Captured By :- Riya Narain</div>
+      </div>
+
+  </div>
+</div>
+<hr>
+<br><br>
+	<h2 align="center"><i><b>NEXT PAGE</b></i><br>
+	
+		<a href="index3.html" target="_self" ><button class="button">2</button></a>
+    	<a href="index3.html" target="_self" ><button class="button">></button></a>
+    </h2>
+<br><br>
+<hr>
+<div class="right">
+	<h3>FOLLOW US ON</h3>
+  <div class="content">
+    <a href="https://chat.whatsapp.com/JCg9vnuXIBx1svEw67asHE" target="_blank" > <img src="whatsapp.png" height="30px" hspace="50px" ;></a>
+	<a href="https://www.facebook.com/ANY-TIME-3033198036720255/?modal=admin_todo_todo_tour" target="_blank" > <img src="facebook.png" height="30px" /></a>
+	<a href="https://www.instagram.com/anytime_industry/" target="_blank" > <img src="insta.png" height="30px" ; /></a>
+    </div>
+    <center class="set" ;> E-mail:anytimeindustry@gmail.com</center>     
+<center class="set" ;>	Mob no.: +91 7652040650</center>                      
+<center class="set" ;>Mob no.: +91 7455054824</center>
+<br><h2 id="top"></h2>
+    <p>	<h6 class="copy" disable>&#169;Copyright 2019. All Rights Reserved.</h6>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 4000); // Change image every 2 seconds
+}
+</script>
+</body>
+</html>
